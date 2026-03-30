@@ -1,6 +1,6 @@
 # IPPM and BMWG Joint WG Charter
 
-The xxxx xxxx Working Group (xxxx WG) develops and maintains metrics, methodologies, and protocols that can be applied to the quality, performance, and reliability of Data delivery services and applications running over public and private networks using IETF technologies. These metrics, methodologies, and protocols are designed as such that they can be used by network operators, end users, or independent testing groups in production or lab environments. Such metrics are intended to provide unbiased quantitative performance measurements.
+The xxxx xxxx Working Group (xxxx WG) develops and maintains metrics, methodologies, and protocols that can be applied to the quality, performance, and reliability of data delivery services and applications running over public and private networks using IETF technologies. These metrics, methodologies, and protocols are designed as such that they can be used by network operators, end users, or independent testing groups in production or lab environments. Such metrics are intended to provide unbiased quantitative performance measurements.
 
 The methodologies cover management, control, and forwarding planes and they apply to hardware, virtualized, and containerized network infrastructure (such as Data Center Network Fabric, SDN Controllers, Virtual Routers, Firewalls), including endpoints in production and lab environments. Where in lab environments the testing procedures ensure consistent, reproducible, and reportable benchmarking results.
 
